@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Node (kept dep-free, but just in case)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local server artifacts
+__pycache__/
+*.pyc
