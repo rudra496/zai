@@ -1,6 +1,6 @@
 # Z.ai National AI Hackathon — Bangladesh 2026
 
-> The first Z.ai-powered **national** AI hackathon for Bangladesh. **September 2026.** Multi-track, multi-university, beginner-friendly. Powered by **Z.ai**. Organized by **Rudra Sarker**, Z.ai Ambassador for Bangladesh.
+> The first Z.ai-powered **national** AI hackathon for Bangladesh. **Postponed — new dates will be announced soon.** Multi-track, multi-university, beginner-friendly. Powered by **Z.ai**. Organized by **Rudra Sarker**, Z.ai Ambassador for Bangladesh.
 
 <p align="center">
   <img src="assets/og-cover.svg" alt="Z.ai National AI Hackathon — Bangladesh 2026 cover" width="720" />
@@ -9,9 +9,9 @@
 <p align="center">
   <img alt="Scope" src="https://img.shields.io/badge/Scope-National%20Bangladesh-6a3cff?style=for-the-badge&labelColor=05060f">
   <img alt="Powered by" src="https://img.shields.io/badge/Powered%20by-Z.ai-1653ff?style=for-the-badge&labelColor=05060f">
-  <img alt="Month" src="https://img.shields.io/badge/When-September_2026-00d4ff?style=for-the-badge&labelColor=05060f">
+  <img alt="When" src="https://img.shields.io/badge/When-Dates_TBA-00d4ff?style=for-the-badge&labelColor=05060f">
   <img alt="Open to" src="https://img.shields.io/badge/Open%20to-All_BD_Universities-ff3c8a?style=for-the-badge&labelColor=05060f">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Planning_2026-success?style=for-the-badge&labelColor=05060f">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Postponed-yellow?style=for-the-badge&labelColor=05060f">
 </p>
 
 ---
@@ -26,15 +26,17 @@ The hackathon runs as an online qualifier feeding into an in-person national fin
 
 ---
 
-## September 2026 timeline
+## Timeline — postponed, dates to be announced
+
+> **Update (2026-09-24):** The hackathon has been **postponed**. The September 2026 schedule below is no longer in effect — new dates will be announced soon on this page and on the ambassador's channels.
 
 | Phase | Dates | What happens |
 |---|---|---|
-| 01 — Registration | **Sep 1–7, 2026** | Nationwide call for teams |
-| 02 — Workshops | **Sep 8–14, 2026** | Virtual Z.ai onboarding + GLM crash course |
-| 03 — Online qualifier | **Sep 15–21, 2026** | Prototype + 3-min demo video submission |
-| 04 — In-person final | **Sep 26–27, 2026** | Two-day build + demo + judging at SUST, Sylhet |
-| 05 — Showcase | **Sep 30, 2026 →** | Open-source publication + media showcase |
+| 01 — Registration | **Will be announced soon** | Nationwide call for teams |
+| 02 — Workshops | **Will be announced soon** | Virtual Z.ai onboarding + GLM crash course |
+| 03 — Online qualifier | **Will be announced soon** | Prototype + 3-min demo video submission |
+| 04 — In-person final | **Will be announced soon** | Two-day build + demo + judging at SUST, Sylhet |
+| 05 — Showcase | **Will be announced soon** | Open-source publication + media showcase |
 
 ---
 
